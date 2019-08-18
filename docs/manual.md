@@ -164,7 +164,7 @@ If the error keeps reappearing, you should measure the output voltage from the i
 
 **Mains fault** 
 
-Controller needs to precisely follow the mains frequency for controlling the heater. If the mains frequency out of limits for a while, it'll shut off and gives this error. Since the Controller is extremely flexible about the frequency, this error is fairly rare and generally related with a power outage. If your AC power blips you may get this error. Power cycle the unit and it'll clear out. 
+Controller needs to precisely follow the mains frequency for controlling the heater. If the mains frequency out of limits for a while, it'll shut off and gives this error. Since the Controller supports wide frequency range, this error is fairly rare and generally related with a power outage. If your AC power blips you may get this error. Power cycle the unit and it'll clear out. 
 
 If you're trying to use the Controller with a "synthetic" supply (a generator or UPS) and you keep getting this error, it generally means your supply generating extreme amount of noise or instead producing a sinewave it outputs ＶＡＰＯＲＷＡＶＥ or something. Jokes aside, it means the Controller cannot work with this supply. Please use a normal AC outlet.
 <br clear="both"/>

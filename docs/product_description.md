@@ -2,6 +2,8 @@ Hot Air Rework Controller for generic 858D / 85x heat guns
 
 A small, portable and robust hot air controller for generic Chinese 858D / 8586 / 8858 / 852 / 878 / 858 hot air guns.
 
+> Please note: Since Tindie does not allow shipping tiers based on product option, I need to select an option that can cover shipping of the assembled controller. Shipping blank boards cost less so I reduced its price to compensate that. I had to write this based on feedback received. Hope that's clear. Thank you.
+
 ## General Specifications and Features
 
 -   Designed to use with Chinese 858D / 8586 / 8858 / 852 / 878 / 858 hot air guns.
@@ -20,6 +22,8 @@ A small, portable and robust hot air controller for generic Chinese 858D / 8586 
 -   Manual calibration for ambient and tool set temperature.
 -   Controller itself will work with 100-250V AC, 30-80Hz. (but you MUST use a hot air gun that rated for your mains voltage)
 
+## Video
+[![Hot Air Rework Controller](https://raw.githubusercontent.com/soguklehim/hot-air-controller/master/docs/img/video.gif "Hot Air Rework Controller")](https://youtu.be/jJAIh5CGPLk)
 
 
 ## Important!
